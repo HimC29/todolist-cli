@@ -9,6 +9,10 @@ A lightweight **CLI program** to manage tasks using a text file in the current d
 
 ---
 
+## Releases
+
+- **Debian** – [https://github.com/HimC29/todolist-cli-deb](https://github.com/HimC29/todolist-cli-deb)    
+
 ## Features
 
 - **Add Tasks** – Quickly add new tasks from the terminal.  
